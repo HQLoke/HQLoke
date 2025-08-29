@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A passionate software developer from Malaysia</h3>
+<h3 align="center">A passionate DevOps Engineer from Malaysia</h3>
 
-- 🔭 I’m currently working on **a trading bot**
-
+- 🔭 I’m currently working on **cloud infrastructure & CI/CD automation**  
+- 🌱 I specialize in **AWS, Kubernetes, Terraform, Jenkins, and security tools (Wiz, ECR, Artifactory)**  
+- 👯 I help businesses **design, automate, and scale their infrastructure**  
 - 📫 How to reach me **hqloke007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/han-qin-loke/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
